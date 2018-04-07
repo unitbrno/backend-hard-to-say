@@ -1,0 +1,1 @@
+python3 main.py --image-path  --csv-path output/3.csv  15.21s user 0.44s system 283% cpu 5.523 total
